@@ -9,4 +9,27 @@
 - 🧠 I’m looking forward to absorbing knowledge, gain experience, collaborate 💜 and build amazing things.
 - 💬 Ask me anything within a reason, I love to help.
 - ⚡ I'm a🪴&🐶 lover, in my free time I like to learn new languages and read tech articles📑.
+
+---
+
+<!-- Technologies & Tools -->
+<h2 align="center">🔧 Technologies & Tools</h2>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="28" height="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="35" height="35"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/>
+<img src="https://img.icons8.com/fluency/512/console.png" alt="bash" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
+<img src="https://img.icons8.com/color/512/latex.png" alt="latex" width="35" height="35"/>
+<img src="https://img.icons8.com/fluency/512/visual-studio-code-2019.png" alt="vsc" width="35" height="35"/>
+<img src="https://img.icons8.com/color/512/notion.png" alt="notion" width="35" height="35"/>
+<img src="https://img.icons8.com/fluency/512/canva-app.png" alt="canva" width="35" height="35"/>
+</p>
+
 ---
