@@ -30,3 +30,16 @@
 <img src="https://img.icons8.com/color/512/notion.png" alt="notion" width="35" height="35"/>
 <img src="https://img.icons8.com/fluency/512/canva-app.png" alt="canva" width="35" height="35"/>
 </p>
+
+
+<!-- Connect -->
+<h2 align="center">👀 Know me better</h2>
+
+<p align="center">
+<a href="https://github.com/gizelads" target="_blank">
+<img src=https://img.shields.io/badge/Github-%2324292e.svg?&style=flat&logo=github&logoColor=white alt=github/></a>
+<a href="https://twitter.com/gizelads" target="_blank">
+<img src=https://img.shields.io/badge/Twitter-%2350acee.svg?&style=flat&logo=twitter&logoColor=white alt=twitter/></a>
+<a href="https://linkedin.com/in/gizelads" target="_blank">
+<img src=https://img.shields.io/badge/Linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white alt=linkedin/></a>  
+</p>
