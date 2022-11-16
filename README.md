@@ -10,7 +10,6 @@
 - 💬 Ask me anything within a reason, I love to help.
 - ⚡ I'm a🪴&🐶 lover, in my free time I like to learn new languages and read tech articles📑.
 
----
 
 <!-- Technologies & Tools -->
 <h2 align="center">🔧 Technologies & Tools</h2>
@@ -31,5 +30,3 @@
 <img src="https://img.icons8.com/color/512/notion.png" alt="notion" width="35" height="35"/>
 <img src="https://img.icons8.com/fluency/512/canva-app.png" alt="canva" width="35" height="35"/>
 </p>
-
----
