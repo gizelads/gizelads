@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Frontend Technologies.
 - 🧠 I’m looking forward to absorbing knowledge, gain experience, collaborate 💜 and build amazing things.
 - 💬 Ask me anything within a reason, I love to help.
-- ⚡ I'm a🪴&🐶 lover, in my free time I like to learn new languages, read tech articles and keep records of my learning process 📑.
+- ⚡ I'm a🪴&🐶 lover, in my free time I like to learn new languages, read tech articles and keep records of my learning 📑.
 
 
 <!-- Technologies & Tools -->
