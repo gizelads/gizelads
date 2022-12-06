@@ -33,7 +33,7 @@
 
 
 <!-- Connect -->
-<h2 align="center">👀 Know me better</h2>
+<h2 align="center">👀 How To Reach Me</h2>
 
 <p align="center">
 <a href="https://github.com/gizelads" target="_blank">
