@@ -1,7 +1,7 @@
 <!--
 **GizelaDS/GizelaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h2 align="center">Hey 👋 there!, my name is Gizela.</h2>
+<h2 align="center">Hey 👋 there!, my name is <label style="background: linear-gradient(to right, #ee00ef 0%, #00eaff 100%);-webkit-background-clip: text;-webkit-text-fill-color:transparent;">Gizela<label>.</h2>
 <h3 align="center">I am a telecommunications engineer 👩‍💻, curious about software development 🚀.</h3>
 
 <!-- About Me -->
