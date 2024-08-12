@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Frontend Technologies.
 - 🧠 I’m looking forward to absorbing knowledge, gain experience, collaborate 💜 and build amazing things.
 - 💬 Ask me anything within a reason, I love to help.
-- ⚡ In my spare time I like to practice new languages, read tech articles and keep records of my learning 📑. I’m also interested in traveling, animals, and nature.
+- ⚡ In my spare time I like to practice new languages, swimming, read tech articles and keep records of my learning 📑. I’m also interested in traveling, animals, and nature.
 
 
 <!-- Technologies & Tools -->
